@@ -6,7 +6,6 @@
 
 <h3 align="center">A university student web developer from Japan.</h3>
 
-<h3 align="left">Connect with me:  rekionda0524@gmail.com</h3>
 <p align="left">
 </p>
 
