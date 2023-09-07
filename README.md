@@ -10,6 +10,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reki204&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reki204&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reki204&theme=dracula&utcOffset=8)
-
-### Snake eating my contribution graph
-![snake gif](https://github.com/reki204/reki204/blob/output/github-contribution-grid-snake.gif)
